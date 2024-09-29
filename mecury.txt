@@ -1,1 +1,2 @@
 mercury is the first planet of the solar system
+mercury is the closest to sun.
